@@ -1,7 +1,7 @@
 ```mental_yoda.h```
 
 ```c
-char buffer[] = "Hello world\n"
+char buffer[] = "Hello world\n";
 
 int main(void)
 {
