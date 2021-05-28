@@ -5,7 +5,7 @@ char buffer[] = "Hello world\n";
 
 int main(void)
 {
-  pritnf(buffer);
+  printf(buffer);
   return 0;
 }
 ```
